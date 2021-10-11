@@ -43,7 +43,8 @@ Certified Blockchain Developer, experience in developing Decentralized Blockchai
   📫 How to reach me: <a href='mailto:takemura.kimio@yahoo.com'>takemura.kimio@yahoo.com</a>
 </p>
 
-<details>
+<br>
+<br>
 
 ## Education
 
@@ -103,5 +104,3 @@ Sep 2018 – Nov 2019
 <img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
-</details>
