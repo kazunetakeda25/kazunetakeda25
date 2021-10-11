@@ -48,46 +48,46 @@ Certified Blockchain Developer, experience in developing Decentralized Blockchai
 
 ## Education
 
-**Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**
-Apr 2015 – Mar 2018\
+**Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
+Apr 2015 – Mar 2018
 
 Studied Computer Science\
 Attended from April 2015 to March 2018\
-Master's Degree\
+Master's Degree
 
 ## Experience
 
-**Blockchain Developer, Co-Founder (with Rey) | KORITSUKI**
-Aug 2020 – Present\
+**Blockchain Developer, Co-Founder (with Rey) | KORITSUKI**\
+Aug 2020 – Present
 
 ✓ Ethereum Smart Contracts\
-▪ Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.\
-▪ Optimized the smart contract code and increased the efficiency by 15%, using the library functionalities of the solidity.\
+- Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.\
+- Optimized the smart contract code and increased the efficiency by 15%, using the library functionalities of the solidity.\
 
 ✓ Personal Projects (Shared with company)\
-▪ Sealed-Bid Auction (Ethereum, Polygon)\
-▪ Aave Health Checker (Based on Aave)\
-▪ KTSwap (Based on Uniswap v2)\
-▪ KTSerum (Based on Solana Serum)\
-▪ Alonzo Testnet Contract Test (Cardano)\
-▪ Cardano Workshop (Discord Project – Open Source)\
-▪ CNFTs (By Cardano CLI)\
+- Sealed-Bid Auction (Ethereum, Polygon)\
+- Aave Health Checker (Based on Aave)\
+- KTSwap (Based on Uniswap v2)\
+- KTSerum (Based on Solana Serum)\
+- Alonzo Testnet Contract Test (Cardano)\
+- Cardano Workshop (Discord Project – Open Source)\
+- CNFTs (By Cardano CLI)
 
 **Smart Contracts Developer | BANCOR NETWORK**
-Apr 2021 – Jun 2021\
+Apr 2021 – Jun 2021
 
-✓ bancorprotocol / webapp-v2\
+✓ bancorprotocol / webapp-v2
 
 ✓ bancorprotocol / contracts-solidity\
-▪ Optimized, maintained protocol smart contracts & webapp.\
+- Optimized, maintained protocol smart contracts & webapp.
 
-**Smart Contracts Developer | DEFI PRIME**
-Sep 2018 – Nov 2019\
+**Smart Contracts Developer | DEFI PRIME**\
+Sep 2018 – Nov 2019
 
 ✓ Defi Ecosystem Development\
-▪ Participated in Token Lists development. (Frontend and Backend)\
-▪ Developed Prime Ledger smart contracts.\
-▪ Optimized Prime Ledge smart contract code and efficiency.\
+- Participated in Token Lists development. (Frontend and Backend)\
+- Developed Prime Ledger smart contracts.\
+- Optimized Prime Ledge smart contract code and efficiency.
 
 ## Skills
 
