@@ -90,8 +90,10 @@ Sep 2018 – Nov 2019
 
 <img align="left" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
 <img align="left" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
+<img align="left" src="https://img.shields.io/badge/-Plutus-blue?style=for-the-badge" />
+<img align="left" src="https://img.shields.io/badge/-Smart%20Contracts-green?style=for-the-badge" />
 <img align="left" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Cardano-ADA-blue?style=for-the-badge&logo=Cardano&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/ADA-Cardano-blue?style=for-the-badge" />
 <img align="left" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
