@@ -1,11 +1,11 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi, I am Kimio Takemura
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Curitiba, Brazil.
+  A Blockchain Smart Contract Developer from Japan.
 </p>
 
 
