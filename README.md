@@ -123,5 +123,7 @@ Sep 2018 – Nov 2019
     <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/-DeFi-blue?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-NFT-green?style=for-the-badge" />
   </div>
 </div>
