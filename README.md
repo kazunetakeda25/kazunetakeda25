@@ -43,9 +43,6 @@ Certified Blockchain Developer, experience in developing Decentralized Blockchai
   📫 How to reach me: <a href='mailto:takemura.kimio@yahoo.com'>takemura.kimio@yahoo.com</a>
 </p>
 
-<br>
-<br>
-
 ## Education
 
 **Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
@@ -91,16 +88,16 @@ Sep 2018 – Nov 2019
 
 ## Skills
 
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
