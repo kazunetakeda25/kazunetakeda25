@@ -1,14 +1,18 @@
 
 
 <h1 align='center'>
-  Hi, I am Kimio Takemura
+  Hi 👋, I am Kimio Takemura
 </h1>
 
 <p align='center'>
   A Blockchain Smart Contract Developer from Japan.
 </p>
-
-
+<p align='center'>
+Experienced Developer professional with strong leadership and relationship-building skills. 
+<br>
+Certified Blockchain Developer, experience in developing Decentralized Blockchain applications using Ethereum, Solana, Polygon and Cardano. A fan of Cardano and Charles Hoskinson.
+<br><br>
+</p>
 
 <p align='center'>
   
@@ -21,8 +25,8 @@
   <a href="https://facebook.com/takemurakimio">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="Kimio Takemura#1427">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
+  <a href="https://t.me/kimiotakemura">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
