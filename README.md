@@ -1,38 +1,36 @@
 
 
 <h1 align='center'>
-  Hi 👋, I am Kimio Takemura
+  Hi 👋, I am Kazune Takeda.
 </h1>
 
 <p align='center'>
   A Blockchain Smart Contract Developer from Japan.
 </p>
 <p align='center'>
-Experienced Developer professional with strong leadership and relationship-building skills. 
-<br>
-Certified Blockchain Developer, experience in developing Decentralized Blockchain applications using Ethereum, Solana, Polygon and Cardano. A fan of Cardano and Charles Hoskinson.
+Self-directed and driven technology professional with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in the Blockchain industry with great acumen. Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Solana, Cardano, Polygon, and Avalanche.
 <br><br>
 </p>
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/takemurakimio/">
+  <a href="https://www.linkedin.com/in/kazunetakeda25/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/takemurakimio">
+  <a href="https://twitter.com/kazunetakeda25">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/takemurakimio">
+  <a href="https://facebook.com/kazunetakeda25">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/kimiotakemura">
+  <a href="https://t.me/kazunetakeda25">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=takemurakimio&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kazunetakeda25&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -40,7 +38,7 @@ Certified Blockchain Developer, experience in developing Decentralized Blockchai
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:takemura.kimio@yahoo.com'>takemura.kimio@yahoo.com</a>
+  📫 How to reach me: <a href='mailto:kazune.takeda@yahoo.com'>kazune.takeda@yahoo.com</a>
 </p>
 
 ## Education
@@ -54,37 +52,52 @@ Master's Degree
 
 ## Experience
 
-**Blockchain Developer, Co-Founder (with Rey) | KORITSUKI**\
-Aug 2020 – Present
+**Blockchain Developer, Freelancer | UPWORK**\
+Aug 2020 – Jul 2020
 
-✓ Ethereum Smart Contracts
-- Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.
-- Optimized the smart contract code and increased the efficiency by 15%, using the library functionalities of the solidity.
+✓ Area of Participants
+-	Sealed-Bid Auction (Ethereum, Polygon)
+-	KingCash.io
+-	Ethermine Bot, Eth Pool
+-	BitCash Payment Integration
+-	Krypto
+-	Online Casino Bustabit
+-	Chain Flyer Blockchain Explorer
 
-✓ Personal Projects (Shared with company)
-- Sealed-Bid Auction (Ethereum, Polygon)
-- Aave Health Checker (Based on Aave)
-- KTSwap (Based on Uniswap v2)
-- KTSerum (Based on Solana Serum)
-- Alonzo Testnet Contract Test (Cardano)
-- Cardano Workshop (Discord Project – Open Source)
-- CNFTs (By Cardano CLI)
+Jul 2020 – Present
+
+✓ Summary
+-	Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.
+-	Optimized the smart contract code, removed unnecessary parts and increased the efficiency by 15%, using the library functionalities of the solidity.
+-	Self-studied famous Defi projects such as Uniswap and Aave, created my own protocols based on both projects.
+-	Worked on high-potential projects like Cardano and Solana Serum to understand Cardano and Solana network structure compared to Ethereum.
+
+✓ Area of Participants
+-	Aave Health Checker (Based on Aave)
+-	KTSwap (Based on Uniswap v2)
+-	KTSerum (Based on Solana Serum)
+-	Alonzo Testnet Contract Test (Cardano)
+-	Cardano Workshop (Discord Project – Open Source)
+-	CNFTs (By Cardano CLI)
 
 **Smart Contracts Developer | BANCOR NETWORK**\
 Apr 2021 – Jun 2021
 
-✓ bancorprotocol / webapp-v2
+✓ Summary
+-	Optimized, maintained protocol smart contracts & webapp.
 
-✓ bancorprotocol / contracts-solidity
-- Optimized, maintained protocol smart contracts & webapp.
+✓ Area of Participants
+-	bancorprotocol/webapp-v2
+-	bancorprotocol/contracts-solidity
 
 **Smart Contracts Developer | DEFI PRIME**\
 Sep 2018 – Nov 2019
 
-✓ Defi Ecosystem Development
-- Participated in Token Lists development. (Frontend and Backend)
-- Developed Prime Ledger smart contracts.
-- Optimized Prime Ledge smart contract code and efficiency.
+✓ Summary
+-	Defi Ecosystem Development
+-	Participated in Token Lists development. (Frontend and Backend)
+-	Developed Prime Ledger smart contracts
+-	Optimized Prime Ledger smart contract code and efficiency.
 
 ## Skills
 <div align="center">
