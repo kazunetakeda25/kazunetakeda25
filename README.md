@@ -8,7 +8,7 @@
   A <b>Smart Contract Developer</b> from <b>Japan</b>.
 </p>
 <p align='center'>
-Self-directed and driven technology professional with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in the Blockchain industry with great acumen. Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Solana, Cardano, Polygon, and Avalanche.
+Self-directed and driven technology professional with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in the Blockchain industry with great acumen. Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Cardano, Solana, Polkadot, and Polygon.
 <br><br>
 </p>
 
@@ -19,9 +19,6 @@ Self-directed and driven technology professional with comprehensive accomplishme
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/kazunetakeda25">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/kazunetakeda25">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://t.me/kazunetakeda25">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
@@ -52,8 +49,8 @@ Master's Degree
 
 ## Experience
 
-**Blockchain Developer, Freelancer | UPWORK, SELF-EMPLOYED**\
-Aug 2020 – Jul 2020
+**Blockchain Developer, Freelancer | UPWORK INC., SELF-EMPLOYED**\
+Aug 2017 – Jul 2020 (Upwork Inc.)
 
 ✓ Area of Participants
 -	Sealed-Bid Auction (Ethereum, Polygon)
@@ -64,7 +61,7 @@ Aug 2020 – Jul 2020
 -	Online Casino Bustabit
 -	Chain Flyer Blockchain Explorer
 
-Jul 2020 – Present
+Jul 2020 – Present (Self-Employed)
 
 ✓ Summary
 -	Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.
@@ -94,9 +91,9 @@ Apr 2021 – Jun 2021
 Sep 2018 – Nov 2019
 
 ✓ Summary
--	Defi Ecosystem Development
+-	Defi Ecosystem Development.
 -	Participated in Token Lists development. (Frontend and Backend)
--	Developed Prime Ledger smart contracts
+-	Developed Prime Ledger smart contracts.
 -	Optimized Prime Ledger smart contract code and efficiency.
 
 ## Skills
