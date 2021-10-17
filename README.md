@@ -111,10 +111,11 @@ Sep 2018 – Nov 2019
   <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://img.shields.io/badge/-Cardano-blue?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-Solana-%237E7FC8?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/-Polygon-blueviolet?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    
   </div>
   <br>
   <br>
@@ -129,6 +130,7 @@ Sep 2018 – Nov 2019
   <br>
   <br>
   <div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
