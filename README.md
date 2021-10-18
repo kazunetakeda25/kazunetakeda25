@@ -49,7 +49,7 @@ Master's Degree
 
 ## Experience
 
-**Blockchain Developer, Freelancer | UPWORK INC., SELF-EMPLOYED**\
+**Blockchain Developer, Freelancer | UPWORK INC., SOFT PREMIER**\
 Aug 2017 – Jul 2020 (Upwork Inc.)
 
 ✓ Area of Participants
@@ -61,7 +61,7 @@ Aug 2017 – Jul 2020 (Upwork Inc.)
 -	Online Casino Bustabit
 -	Chain Flyer Blockchain Explorer
 
-Jul 2020 – Present (Self-Employed)
+Jul 2020 – Present (Soft Premier)
 
 ✓ Summary
 -	Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.
