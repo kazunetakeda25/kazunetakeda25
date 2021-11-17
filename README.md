@@ -87,14 +87,32 @@ Apr 2021 – Jun 2021
 -	bancorprotocol/webapp-v2
 -	bancorprotocol/contracts-solidity
 
-**Smart Contracts Developer | DEFI PRIME**\
-Sep 2018 – Nov 2019
+**Freelancer | UPWORK INC.**\
+Aug 2017 – Jul 2020
 
 ✓ Summary
--	Defi Ecosystem Development.
--	Participated in Token Lists development. (Frontend and Backend)
--	Developed Prime Ledger smart contracts.
--	Optimized Prime Ledger smart contract code and efficiency.
+- For three years, I have developed, participated in many different projects, my expertise is following:
+    Cross-Platform Desktop App Development. (Electron.js, Typical project is Celer Solutions Desktop App)
+    Windows Desktop App Development. (WinForms, WPF)
+    Website Development (React, Vue.js, HTML5, SCSS, Laravel)
+    PWA Development (React.js, Vue.js)
+    Mobile App Development (React Native, Nativescript + Vue)
+    Smart Contract Development (Solidity, Typical project is Sealed-Bid Auction project which is live in Ethereum and Polygon)
+    Web3 Integration Projects (web3.js, Typical projects are KingCash.io and BitCash Payment Integration Projects)
+    Database Management Projects (MongoDB, MySQL, PostgreSQL, AWS DynamoDB)
+
+✓ Repositories
+  https://github.com/kazunetakeda25/defiprime-webapp
+
+**Full stack Developer | DEFI PRIME**\
+Sep 2019 – Nov 2019
+
+✓ Summary
+- Participated in DeFi Ecosystem Website development.
+- Participated in Token Lists development.
+- Participated in Prime Ledger smart contract development, optimized smart contract code and efficiency.
+✓ Repositories
+  https://github.com/kazunetakeda25/defiprime-webapp
 
 ## Skills
 <div align="center">
