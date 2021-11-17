@@ -40,79 +40,78 @@ Self-directed and driven technology professional with comprehensive accomplishme
 
 ## Education
 
-**Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
+**🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
 Apr 2015 – Mar 2018
 
 Studied Computer Science\
-Attended from April 2015 to March 2018\
-Master's Degree
 
 ## Experience
 
-**Blockchain Developer, Freelancer | UPWORK INC., SOFT PREMIER**\
-Aug 2017 – Jul 2020 (Upwork Inc.)
-
-✓ Area of Participants
--	Sealed-Bid Auction (Ethereum, Polygon)
--	KingCash.io
--	Ethermine Bot, Eth Pool
--	BitCash Payment Integration
--	Krypto
--	Online Casino Bustabit
--	Chain Flyer Blockchain Explorer
-
-Jul 2020 – Present (Soft Premier)
+**🔹 Blockchain Developer | SOFT PREMIER**\
+Jul 2020 – Present
 
 ✓ Summary
--	Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.
--	Optimized the smart contract code, removed unnecessary parts and increased the efficiency by 15%, using the library functionalities of the solidity.
--	Self-studied famous Defi projects such as Uniswap and Aave, created my own protocols based on both projects.
--	Worked on high-potential projects like Cardano and Solana Serum to understand Cardano and Solana network structure compared to Ethereum.
+- One of the Co-Founders of the cryptocurrency developer team, we focused on developing a stunning custom blockchain that is unique in blockchain industry by using Substrate framework from 2021.
+- Designed and developed Ethereum smart contracts using Solidity and implemented test scripts using truffle and hardhat frameworks.
+- Optimized the smart contract code, removed unnecessary parts, and increased efficiency and security by 15% ~ 30%.
+- Focusing on creating the best Defi projects by forking Aave, Uniswap, Balancer projects, plan to combine their best features to create a unique DEX (KTDEX) on Ethereum and layer 2s and on other sidechains, also planning to create a cross-chain bridge.
+- Creating an NFT marketplace on Cardano by forking spacebudz, created a small NFT platform on Solana network.
+- Participating in Livepeer protocol to deploy their smart contract on Arbitrum One.
 
-✓ Area of Participants
--	Aave Health Checker (Based on Aave)
--	KTSwap (Based on Uniswap v2)
--	KTSerum (Based on Solana Serum)
--	Alonzo Testnet Contract Test (Cardano)
--	Cardano Workshop (Discord Project – Open Source)
--	CNFTs (By Cardano CLI)
+✓ Repositories
 
-**Smart Contracts Developer | BANCOR NETWORK**\
+**🔹 Smart Contracts Developer | BANCOR NETWORK**\
 Apr 2021 – Jun 2021
 
 ✓ Summary
--	Optimized, maintained protocol smart contracts & webapp.
+- Worked on their smart contract project, mainly focused on liquidity part, addressed protected token liquidity to the token position.
+- Support providing custom data to the callback in Transfer Position Event Callback, moved TokenHolder back to utility folder to update liquidity to position.
+- In the liquidity protection part, created some methods to transfer position and more.
 
-✓ Area of Participants
--	bancorprotocol/webapp-v2
--	bancorprotocol/contracts-solidity
+**🔹 Smart Contracts Developer | BANCORLIQUIDITY DIVIDENDS PROTOCOL**\
+Dec 2020 – Mar 2021
 
-**Freelancer | UPWORK INC.**\
+✓ Summary
+-	Developed Liftoff Launchpad project which provides locked liquidity services to cryptocurrency projects that launch their offerings through ERC-20 tokens. It lets non-custodial pre-sales lock liquidity of token in a trustless manner through Uniswap, preventing instances of “rug pull” scams to pull liquidity out of DeFi project and dupe investors.
+- Participated in developing smart contract, dApp, and the subgraph.
+
+**🔹 Full stack Developer | RECALL MASTERS**\
+Feb 2020 – Aug 2020
+
+✓ Summary
+- Developed Recall Check Desktop app using WPF framework.
+- Developed COVID-19 Relief Organization Website using AWS Serverless Framework which offers the following;
+  - Local and national merchants can publish one-time or recurring offers, 
+  - Consumers can browse and save deals and redeem them instantly on their devices.
+- Participated in Recall Masters v2 backend API development with the dedicated Criterion Development team.
+
+✓ Repositories
+
+**🔹 Aumented Reality / Virtual Reality Developer | VIEWER READY**\
+Jan 2019 – Sep 2020
+
+✓ Summary
+- Developed Envirosolar Augmented Reality Mobile App.
+- Developed a demo 8thwall app for US Airforce Job Explorer.
+- Developed many hologram mobile apps and Oculus/Steam VR desktop Apps using Unity, participated in Totally Baseball VR game development which is live on steam.
+
+✓ Repositories
+
+**🔹 Freelancer | UPWORK INC.**\
 Aug 2017 – Jul 2020
 
 ✓ Summary
 - For three years, I have developed, participated in many different projects, my expertise is following:
-    = Cross-Platform Desktop App Development. (Electron.js, Typical project is Celer Solutions Desktop App)
+  - Cross-Platform Desktop App Development. (Electron.js, Typical project is Celer Solutions Desktop App)
+  - Windows Desktop App Development. (WinForms, WPF)
+  - Website Development (React, Vue.js, HTML5, SCSS, Laravel)
+  - PWA Development (React.js, Vue.js)
+  - Mobile App Development (React Native, Nativescript + Vue)
+  - Smart Contract Development (Solidity, Typical project is Sealed-Bid Auction project which is live in Ethereum and Polygon)
+  - Web3 Integration Projects (web3.js, Typical projects are KingCash.io and BitCash Payment Integration Projects)
+  - Database Management Projects (MongoDB, MySQL, PostgreSQL, AWS DynamoDB)
 
-    Windows Desktop App Development. (WinForms, WPF)
-
-    Website Development (React, Vue.js, HTML5, SCSS, Laravel)
-
-    PWA Development (React.js, Vue.js)
-
-    Mobile App Development (React Native, Nativescript + Vue)
-
-    Smart Contract Development (Solidity, Typical project is Sealed-Bid Auction project which is live in Ethereum and Polygon)
-
-    Web3 Integration Projects (web3.js, Typical projects are KingCash.io and BitCash Payment Integration Projects)
-
-    Database Management Projects (MongoDB, MySQL, PostgreSQL, AWS DynamoDB)
-
-
-✓ Repositories
--	https://github.com/kazunetakeda25/defiprime-webapp
-
-**Full stack Developer | DEFI PRIME**\
+**🔹 Full stack Developer | DEFI PRIME**\
 Sep 2019 – Nov 2019
 
 ✓ Summary
@@ -121,7 +120,6 @@ Sep 2019 – Nov 2019
 - Participated in Prime Ledger smart contract development, optimized smart contract code and efficiency.
 
 ✓ Repositories
--	https://github.com/kazunetakeda25/defiprime-webapp
 
 ## Skills
 <div align="center">
