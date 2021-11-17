@@ -92,7 +92,7 @@ Aug 2017 – Jul 2020
 
 ✓ Summary
 - For three years, I have developed, participated in many different projects, my expertise is following:
-    Cross-Platform Desktop App Development. (Electron.js, Typical project is Celer Solutions Desktop App)
+    = Cross-Platform Desktop App Development. (Electron.js, Typical project is Celer Solutions Desktop App)
 
     Windows Desktop App Development. (WinForms, WPF)
 
@@ -110,8 +110,7 @@ Aug 2017 – Jul 2020
 
 
 ✓ Repositories
-
-  https://github.com/kazunetakeda25/defiprime-webapp
+-	https://github.com/kazunetakeda25/defiprime-webapp
 
 **Full stack Developer | DEFI PRIME**\
 Sep 2019 – Nov 2019
@@ -122,8 +121,7 @@ Sep 2019 – Nov 2019
 - Participated in Prime Ledger smart contract development, optimized smart contract code and efficiency.
 
 ✓ Repositories
-
-  https://github.com/kazunetakeda25/defiprime-webapp
+-	https://github.com/kazunetakeda25/defiprime-webapp
 
 ## Skills
 <div align="center">
