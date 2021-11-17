@@ -41,14 +41,14 @@ Self-directed and driven technology professional with comprehensive accomplishme
 ## Education
 
 **🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
-Apr 2015 – Mar 2018
+&ensp;&ensp;&nbsp;&nbsp;Apr 2015 – Mar 2018
 
 Studied Computer Science
 
 ## Experience
 
 **🔹 Blockchain Developer | SOFT PREMIER**\
-Jul 2020 – Present
+&ensp;&ensp;&nbsp;&nbsp;Jul 2020 – Present
 
 ✓ Summary
 - One of the Co-Founders of the cryptocurrency developer team, we focused on developing a stunning custom blockchain that is unique in blockchain industry by using Substrate framework from 2021.
@@ -63,7 +63,7 @@ Jul 2020 – Present
 - https://github.com/kazunetakeda25/ZeroLink
 
 **🔹 Smart Contracts Developer | BANCOR NETWORK**\
-Apr 2021 – Jun 2021
+&ensp;&ensp;&nbsp;&nbsp;Apr 2021 – Jun 2021
 
 ✓ Summary
 - Worked on their smart contract project, mainly focused on liquidity part, addressed protected token liquidity to the token position.
@@ -71,14 +71,14 @@ Apr 2021 – Jun 2021
 - In the liquidity protection part, created some methods to transfer position and more.
 
 **🔹 Smart Contracts Developer | BANCORLIQUIDITY DIVIDENDS PROTOCOL**\
-Dec 2020 – Mar 2021
+     Dec 2020 – Mar 2021
 
 ✓ Summary
 -	Developed Liftoff Launchpad project which provides locked liquidity services to cryptocurrency projects that launch their offerings through ERC-20 tokens. It lets non-custodial pre-sales lock liquidity of token in a trustless manner through Uniswap, preventing instances of “rug pull” scams to pull liquidity out of DeFi project and dupe investors.
 - Participated in developing smart contract, dApp, and the subgraph.
 
 **🔹 Full stack Developer | RECALL MASTERS**\
-Feb 2020 – Aug 2020
+&ensp;&ensp;&nbsp;&nbsp;Feb 2020 – Aug 2020
 
 ✓ Summary
 - Developed Recall Check Desktop app using WPF framework.
@@ -91,7 +91,7 @@ Feb 2020 – Aug 2020
 - https://github.com/kazunetakeda25/cv19relief
 
 **🔹 Aumented Reality / Virtual Reality Developer | VIEWER READY**\
-Jan 2019 – Sep 2020
+&ensp;&ensp;&nbsp;&nbsp;Jan 2019 – Sep 2020
 
 ✓ Summary
 - Developed Envirosolar Augmented Reality Mobile App.
@@ -105,7 +105,7 @@ Jan 2019 – Sep 2020
 - https://github.com/kazunetakeda25/full-plate
 
 **🔹 Freelancer | UPWORK INC.**\
-Aug 2017 – Jul 2020
+&ensp;&ensp;&nbsp;&nbsp;Aug 2017 – Jul 2020
 
 ✓ Summary
 - For three years, I have developed, participated in many different projects, my expertise is following:
@@ -124,7 +124,7 @@ Aug 2017 – Jul 2020
 - https://github.com/kazunetakeda25/missing-part-2
 
 **🔹 Full stack Developer | DEFI PRIME**\
-Sep 2019 – Nov 2019
+&ensp;&ensp;&nbsp;&nbsp;Sep 2019 – Nov 2019
 
 ✓ Summary
 - Participated in DeFi Ecosystem Website development.
