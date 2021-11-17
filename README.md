@@ -43,7 +43,7 @@ Self-directed and driven technology professional with comprehensive accomplishme
 **🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
 Apr 2015 – Mar 2018
 
-Studied Computer Science\
+Studied Computer Science
 
 ## Experience
 
@@ -59,6 +59,8 @@ Jul 2020 – Present
 - Participating in Livepeer protocol to deploy their smart contract on Arbitrum One.
 
 ✓ Repositories
+- https://github.com/kazunetakeda25/substrate-uniswap
+- https://github.com/kazunetakeda25/ZeroLink
 
 **🔹 Smart Contracts Developer | BANCOR NETWORK**\
 Apr 2021 – Jun 2021
@@ -86,6 +88,7 @@ Feb 2020 – Aug 2020
 - Participated in Recall Masters v2 backend API development with the dedicated Criterion Development team.
 
 ✓ Repositories
+- https://github.com/kazunetakeda25/cv19relief
 
 **🔹 Aumented Reality / Virtual Reality Developer | VIEWER READY**\
 Jan 2019 – Sep 2020
@@ -96,6 +99,10 @@ Jan 2019 – Sep 2020
 - Developed many hologram mobile apps and Oculus/Steam VR desktop Apps using Unity, participated in Totally Baseball VR game development which is live on steam.
 
 ✓ Repositories
+- https://github.com/kazunetakeda25/envirosolar-ar
+- https://github.com/kazunetakeda25/us-airforce-job-explorer
+- https://github.com/kazunetakeda25/aiaa-forum
+- https://github.com/kazunetakeda25/full-plate
 
 **🔹 Freelancer | UPWORK INC.**\
 Aug 2017 – Jul 2020
@@ -111,6 +118,11 @@ Aug 2017 – Jul 2020
   - Web3 Integration Projects (web3.js, Typical projects are KingCash.io and BitCash Payment Integration Projects)
   - Database Management Projects (MongoDB, MySQL, PostgreSQL, AWS DynamoDB)
 
+✓ Repositories
+- https://github.com/kazunetakeda25/deezer-downloader
+- https://github.com/kazunetakeda25/missing-part-1
+- https://github.com/kazunetakeda25/missing-part-2
+
 **🔹 Full stack Developer | DEFI PRIME**\
 Sep 2019 – Nov 2019
 
@@ -118,8 +130,6 @@ Sep 2019 – Nov 2019
 - Participated in DeFi Ecosystem Website development.
 - Participated in Token Lists development.
 - Participated in Prime Ledger smart contract development, optimized smart contract code and efficiency.
-
-✓ Repositories
 
 ## Skills
 <div align="center">
