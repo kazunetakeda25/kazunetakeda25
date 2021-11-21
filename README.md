@@ -103,6 +103,7 @@ Studied Computer Science
 - https://github.com/kazunetakeda25/us-airforce-job-explorer
 - https://github.com/kazunetakeda25/aiaa-forum
 - https://github.com/kazunetakeda25/full-plate
+- ARX NFT Gallery (https://s3.eu-central-1.amazonaws.com/test1.dev.holosee/vr_demo_tommy/index.html)
 
 **🔹 Freelancer | UPWORK INC.**\
 &ensp;&ensp;&nbsp;&nbsp;Aug 2017 – Jul 2020
