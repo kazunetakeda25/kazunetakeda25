@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A <b>Smart Contract Developer</b> from <b>Japan</b>.
+  A <b>Blockchain Architect</b> from <b>Japan</b>.
 </p>
 <p>
 Self-directed and driven technology professional with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in the Blockchain industry with great acumen. Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Cardano, Solana, Polkadot, and Polygon.
