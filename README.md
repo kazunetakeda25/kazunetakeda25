@@ -47,8 +47,8 @@ Studied Computer Science
 
 ## Experience
 
-**🔹 CO-FOUNDER, CHEIF TECHNOLOGY OFFICER | SOFT PREMIER**\
-&ensp;&ensp;&nbsp;&nbsp;Jul 2020 – Present
+**🔹 CO-FOUNDER, CTO | SOFT PREMIER**\
+&ensp;&ensp;&nbsp;&nbsp;Jul 2020 – Nov 2021
 
 ✓ Summary
 - One of the Co-Founders of the cryptocurrency developer team, we focused on developing a stunning custom blockchain that is unique in blockchain industry by using Substrate framework from 2021.
