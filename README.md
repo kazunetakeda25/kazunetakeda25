@@ -47,7 +47,7 @@ Studied Computer Science
 
 ## Experience
 
-**🔹 Blockchain Developer | SOFT PREMIER**\
+**🔹 CO-FOUNDER, CHEIF TECHNOLOGY OFFICER | SOFT PREMIER**\
 &ensp;&ensp;&nbsp;&nbsp;Jul 2020 – Present
 
 ✓ Summary
