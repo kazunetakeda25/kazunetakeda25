@@ -47,7 +47,7 @@ Studied Computer Science
 
 ## Experience
 
-**🔹 CO-FOUNDER, CTO | SOFT PREMIER**\
+**🔹 Co-Founder, Chief Technology Officer | SOFT PREMIER**\
 &ensp;&ensp;&nbsp;&nbsp;Jul 2020 – Nov 2021
 
 ✓ Summary
