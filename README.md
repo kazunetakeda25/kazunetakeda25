@@ -47,13 +47,13 @@ Studied Computer Science
 
 ## Experience
 
-**🔹 Chief Technology Officer | MetaVersus**\
+**🔹 Chief Technology Officer | METAVERSUS**\
 &ensp;&ensp;&nbsp;&nbsp;Nov 2021 – Jan 2022
 
 **🔹 Blockchain Core Developer | LATOKEN**\
 &ensp;&ensp;&nbsp;&nbsp;Nov 2021 – Jan 2022
 
-**🔹 Blockchain Lead Developer | Clutch Wallet**\
+**🔹 Blockchain Lead Developer | CLUTCH WALLET**\
 &ensp;&ensp;&nbsp;&nbsp;Nov 2021 – Dec 2021
 
 **🔹 Co-Founder, Chief Technology Officer | SOFT PREMIER**\
