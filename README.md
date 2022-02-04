@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A <b>Blockchain Architect</b> from <b>Japan</b>.
+  <b>Blockchain Architect</b>.
 </p>
 <p>
 Self-directed and driven technology professional with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in the Blockchain industry with great acumen. Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Cardano, Solana, Polkadot, and Polygon.
@@ -43,11 +43,11 @@ Self-directed and driven technology professional with comprehensive accomplishme
 **🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
 &ensp;&ensp;&nbsp;&nbsp;Apr 2015 – Mar 2018
 
-Studied Computer Science
+&ensp;&ensp;&nbsp;&nbsp;Studied Computer Science
 
 ## Experience
 
-**🔹 Chief Technology Officer | METAVERSUS**\
+**🔹 Head of Blockchain | METAVERSUS GLOBAL**\
 &ensp;&ensp;&nbsp;&nbsp;Nov 2021 – Jan 2022
 
 **🔹 Blockchain Core Developer | LATOKEN**\
@@ -65,7 +65,6 @@ Studied Computer Science
 - Optimized the smart contract code, removed unnecessary parts, and increased efficiency and security by 15% ~ 30%.
 - Focusing on creating the best Defi projects by forking Aave, Uniswap, Balancer projects, plan to combine their best features to create a unique DEX (KTDEX) on Ethereum and layer 2s and on other sidechains, also planning to create a cross-chain bridge.
 - Creating an NFT marketplace on Cardano by forking spacebudz, created a small NFT platform on Solana network.
-- Participating in Livepeer protocol to deploy their smart contract on Arbitrum One.
 
 ✓ Repositories
 - https://github.com/kazunetakeda25/substrate-uniswap
