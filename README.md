@@ -7,10 +7,6 @@
 <p align='center'>
   <b>Blockchain Architect</b>
 </p>
-<p>
-Self-directed and driven technology professional with comprehensive accomplishments applying high-security smart contracts to ensure success and achieve goals. Strong experience in the Blockchain industry with great acumen. Demonstrated success developing and seamlessly executing smart contracts in complex Defi and DEX structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation, and an understanding of emerging technology. Expertise includes developing and auditing blockchain smart contracts with various Blockchain networks including Ethereum, Cardano, Solana, Polkadot, and Polygon.
-<br><br>
-</p>
 
 <p align='center'>
   
@@ -41,35 +37,24 @@ Self-directed and driven technology professional with comprehensive accomplishme
 ## Education
 
 **🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
-&ensp;&ensp;&nbsp;&nbsp;Apr 2015 – Mar 2018
-
-&ensp;&ensp;&nbsp;&nbsp;Studied Computer Science
 
 ## Experience
 
 **🔹 CTO | METAVERSUS GLOBAL**\
-&ensp;&ensp;&nbsp;&nbsp;Nov 2021 – Present
 
 **🔹 Blockchain Core Developer | LATOKEN**\
-&ensp;&ensp;&nbsp;&nbsp;Nov 2021 – Jan 2022
 
 **🔹 Blockchain Lead Developer | CLUTCH WALLET**\
-&ensp;&ensp;&nbsp;&nbsp;Nov 2021 – Dec 2021
 
 **🔹 Co-Founder, CTO | SOFT PREMIER**\
-&ensp;&ensp;&nbsp;&nbsp;Jul 2020 – Nov 2021
 
 **🔹 Smart Contracts Developer | BANCOR NETWORK**\
-&ensp;&ensp;&nbsp;&nbsp;Apr 2021 – Jun 2021
 
 **🔹 Full stack Developer | RECALL MASTERS**\
-&ensp;&ensp;&nbsp;&nbsp;Feb 2020 – Aug 2020
 
 **🔹 Aumented Reality / Virtual Reality Developer | VIEWER READY**\
-&ensp;&ensp;&nbsp;&nbsp;Jan 2019 – Sep 2020
 
 **🔹 Full stack Developer | DEFI PRIME**\
-&ensp;&ensp;&nbsp;&nbsp;Sep 2019 – Nov 2019
 
 ## Skills
 
