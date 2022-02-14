@@ -40,21 +40,21 @@
 
 ## Experience
 
-**🔹 CTO | METAVERSUS GLOBAL**\
+**🔹 CTO | METAVERSUS GLOBAL**
 
-**🔹 Blockchain Core Developer | LATOKEN**\
+**🔹 Blockchain Core Developer | LATOKEN**
 
-**🔹 Blockchain Lead Developer | CLUTCH WALLET**\
+**🔹 Blockchain Lead Developer | CLUTCH WALLET**
 
-**🔹 Co-Founder, CTO | SOFT PREMIER**\
+**🔹 Co-Founder, CTO | SOFT PREMIER**
 
-**🔹 Smart Contracts Developer | BANCOR NETWORK**\
+**🔹 Smart Contracts Developer | BANCOR NETWORK**
 
-**🔹 Full stack Developer | RECALL MASTERS**\
+**🔹 Full stack Developer | RECALL MASTERS LLC**
 
-**🔹 Aumented Reality / Virtual Reality Developer | VIEWER READY**\
+**🔹 Aumented Reality / Virtual Reality Developer | VIEWER READY INC**
 
-**🔹 Full stack Developer | DEFI PRIME**\
+**🔹 Full stack Developer | DEFI PRIME**
 
 ## Skills
 
