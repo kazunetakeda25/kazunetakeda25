@@ -36,7 +36,7 @@
 
 ## Education
 
-**🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
+**🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**
 
 ## Experience
 
