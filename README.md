@@ -42,6 +42,8 @@
 
 **🔹 CTO | METAVERSUS GLOBAL**
 
+**🔹 Blockchain Lead Developer | ELONGATE**
+
 **🔹 Blockchain Core Developer | LATOKEN**
 
 **🔹 Blockchain Lead Developer | CLUTCH WALLET**
@@ -52,7 +54,7 @@
 
 **🔹 Full stack Developer | RECALL MASTERS LLC**
 
-**🔹 Aumented Reality / Virtual Reality Developer | VIEWER READY INC**
+**🔹 Augmented Reality / Virtual Reality Developer | VIEWER READY INC**
 
 **🔹 Full stack Developer | DEFI PRIME**
 
