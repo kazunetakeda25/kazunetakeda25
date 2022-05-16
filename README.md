@@ -42,11 +42,13 @@
 
 **🔹 CTO | METAVERSUS GLOBAL**
 
-**🔹 Blockchain Lead Developer | ELONGATE**
+**🔹 Blockchain Lead Developer | XTERNITY GAMES**
 
 **🔹 Blockchain Core Developer | LATOKEN**
 
 **🔹 Blockchain Lead Developer | CLUTCH WALLET**
+
+**🔹 Blockchain Lead Developer | ELONGATE**
 
 **🔹 Co-Founder, CTO | SOFT PREMIER**
 
