@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  <b>Blockchain Architect</b>
+  <b>CTO MetaVersus | Blockchain Architect</b>
 </p>
 
 <p align='center'>
