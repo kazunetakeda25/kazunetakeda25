@@ -40,15 +40,19 @@
 
 ## Experience
 
-**🔹 CTO | METAVERSUS GLOBAL**
+**🔹 CTO | METAVERSUS**
 
-**🔹 Blockchain Lead Developer | XTERNITY GAMES**
+**🔹 Head of Blockchain | XTERNITY GAMES**
 
 **🔹 Blockchain Core Developer | LATOKEN**
 
 **🔹 Blockchain Lead Developer | CLUTCH WALLET**
 
 **🔹 Blockchain Lead Developer | ELONGATE**
+
+**🔹 Blockchain Lead Developer | NFT STUDIOS**
+
+**🔹 Blockchain Lead Developer | SHROGE**
 
 **🔹 Co-Founder, CTO | SOFT PREMIER**
 
