@@ -50,15 +50,15 @@
 
 **🔹 Blockchain Lead Developer | ELONGATE**
 
-**🔹 Blockchain Lead Developer | NFT STUDIOS**
+**🔹 Smart Contract Developer | NFT STUDIOS**
 
 **🔹 Blockchain Lead Developer | SHROGE**
 
 **🔹 Co-Founder, Chief Technology Officer | SOFT PREMIER**
 
-**🔹 Smart Contracts Developer | BANCOR NETWORK**
+**🔹 Smart Contract Developer | BANCOR NETWORK**
 
-**🔹 Smart Contracts Developer | LIQUIDITY DIVIDEND PROTOCOL**
+**🔹 Smart Contract Developer | LIQUIDITY DIVIDEND PROTOCOL**
 
 **🔹 Full stack Developer | RECALL MASTERS LLC**
 
