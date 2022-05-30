@@ -58,7 +58,7 @@
 
 **🔹 Smart Contracts Developer | BANCOR NETWORK**
 
-**🔹 Smart Contracts Developer | LIQUIDITY DIVIDEND PROTOCOL **
+**🔹 Smart Contracts Developer | LIQUIDITY DIVIDEND PROTOCOL**
 
 **🔹 Full stack Developer | RECALL MASTERS LLC**
 
