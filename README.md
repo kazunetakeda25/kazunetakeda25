@@ -40,9 +40,9 @@
 
 ## Experience
 
-**🔹 CTO | METAVERSUS**
+**🔹 Chief Technology Officer | METAVERSUS**
 
-**🔹 Head of Blockchain | XTERNITY GAMES**
+**🔹 Chief Blockchain Officer | XTERNITY GAMES**
 
 **🔹 Blockchain Core Developer | LATOKEN**
 
@@ -54,9 +54,11 @@
 
 **🔹 Blockchain Lead Developer | SHROGE**
 
-**🔹 Co-Founder, CTO | SOFT PREMIER**
+**🔹 Co-Founder, Chief Technology Officer | SOFT PREMIER**
 
 **🔹 Smart Contracts Developer | BANCOR NETWORK**
+
+**🔹 Smart Contracts Developer | LIQUIDITY DIVIDEND PROTOCOL **
 
 **🔹 Full stack Developer | RECALL MASTERS LLC**
 
