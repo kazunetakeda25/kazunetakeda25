@@ -40,11 +40,11 @@
 
 ## Experience
 
-**🔹 Chief Technology Officer | METAVERSUS**
+**🔹 Chief Technology Officer, Head of Blockchain | METAVERSUS GLOBAL**
 
 **🔹 Chief Blockchain Officer | XTERNITY GAMES**
 
-**🔹 Blockchain Core Developer | LATOKEN**
+**🔹 Blockchain Core Developer, Crosschain Developer | LATOKEN**
 
 **🔹 Blockchain Lead Developer | CLUTCH WALLET**
 
@@ -60,11 +60,11 @@
 
 **🔹 Smart Contract Developer | LIQUIDITY DIVIDEND PROTOCOL**
 
-**🔹 Full stack Developer | RECALL MASTERS LLC**
+**🔹 Full-stack Developer | RECALL MASTERS**
 
-**🔹 Augmented Reality / Virtual Reality Developer | VIEWER READY INC**
+**🔹 AR/VR Developer, Full-stack Developer | VIEWER READY**
 
-**🔹 Full stack Developer | DEFI PRIME**
+**🔹 Full-stack Developer | DEFI PRIME**
 
 ## Skills
 
