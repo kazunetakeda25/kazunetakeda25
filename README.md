@@ -50,10 +50,8 @@
   <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://img.shields.io/badge/-Cardano-blue?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-Solana-%237E7FC8?style=for-the-badge" />
-    <img align="left" src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/-Polygon-blueviolet?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </div>
   <br>
