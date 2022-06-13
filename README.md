@@ -34,38 +34,6 @@
   📫 How to reach me: <a href='mailto:kazune.takeda@yahoo.com'>kazune.takeda@yahoo.com</a>
 </p>
 
-## Education
-
-**🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**
-
-## Experience
-
-**🔹 Chief Technology Officer, Head of Blockchain | METAVERSUS GLOBAL**
-
-**🔹 Chief Blockchain Officer | XTERNITY GAMES**
-
-**🔹 Blockchain Core Developer, Crosschain Developer | LATOKEN**
-
-**🔹 Blockchain Lead Developer | CLUTCH WALLET**
-
-**🔹 Blockchain Lead Developer | ELONGATE**
-
-**🔹 Smart Contract Developer | NFT STUDIOS**
-
-**🔹 Blockchain Lead Developer | SHROGE**
-
-**🔹 Co-Founder, Chief Technology Officer | SOFT PREMIER**
-
-**🔹 Smart Contract Developer | BANCOR NETWORK**
-
-**🔹 Smart Contract Developer | LIQUIDITY DIVIDEND PROTOCOL**
-
-**🔹 Full-stack Developer | RECALL MASTERS**
-
-**🔹 AR/VR Developer, Full-stack Developer | VIEWER READY**
-
-**🔹 Full-stack Developer | DEFI PRIME**
-
 ## Skills
 
 <div align="center">
